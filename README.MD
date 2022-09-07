@@ -1,0 +1,2 @@
+My first coding project. Using mainly HTML and a litle bit of CSS. The beginning of my frontend journey.
+I learnt how to use anchor tag, img tag, class and id property to mention a few. It was intresting and fascinating to code along with Dave Gray. I was motivated to learn more and get better.
